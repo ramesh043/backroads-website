@@ -11,6 +11,7 @@ function Footer() {
       {socialLinks.map((link)=>{
               return <SocialLink key={link.id} {...link} itemClass="footer-icon"></SocialLink>
       })}
+      
 
     </ul>
     <p className='copyright'>

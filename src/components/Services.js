@@ -11,8 +11,6 @@ function Services() {
         return           <Service {...service} key={service.id}/>
         
 
-
-
 })}
       </div>
        

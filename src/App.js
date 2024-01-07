@@ -18,8 +18,7 @@ function App() {
     <Services/>
     <Tours/>
     <Footer/>
-    
-  
+
     
     </>
   );

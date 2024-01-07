@@ -3,7 +3,6 @@ import Title from './Title';
 import about from "../images/about.jpeg"
 function About() {
   return (
-    
       <section className='section' id='about'>
       <Title title="About" desc="Us"/>
       <div className='section-center about-center'>

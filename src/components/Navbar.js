@@ -14,9 +14,6 @@ function Navbar() {
 
         </button>
 
-        
-
-
           <ul className='nav-links' id='nav-links'>
             {pageLinks.map((link)=>{
             return (<li key={link.id}>

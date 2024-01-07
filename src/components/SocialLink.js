@@ -9,5 +9,4 @@ function SocialLink({icon,href,itemClass}) {
   </li>
   )
 }
-
 export default SocialLink;

@@ -8,7 +8,6 @@ export const pageLinks =[{id:1,href:"#home",text:"home"},
 {id:3,href:"#services",text:"Services"},
 
 {id:4,href:"#tours",text:"Tours"}
-
 ]
 
 export const socialLinks =[{ id: 1, href: 'https://www.twitter.com', icon: 'fab fa-facebook' },

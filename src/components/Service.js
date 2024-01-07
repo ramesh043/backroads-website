@@ -2,7 +2,6 @@ import React from 'react'
 
 function Service({icon,title,text}) {
   return (
-    
     <article className='service'>
         <span className='service-icon'>
             <i className={icon}></i>

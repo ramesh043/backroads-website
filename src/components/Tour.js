@@ -28,5 +28,4 @@ function Tour({image,date,title,info,location,duration,cost}) {
    </article>
   )
 }
-
 export default Tour

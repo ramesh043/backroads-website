@@ -16,5 +16,4 @@ function Tours() {
   </section>
   )
 }
-
 export default Tours;
